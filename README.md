@@ -1,1 +1,1 @@
-First file
+This repository contains the codes used for the simulations in several works for graph signal processing. These works are part of my PhD thesis entitled "Modeling and learning strategies for graph signal processing".
